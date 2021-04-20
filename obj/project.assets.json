@@ -5493,11 +5493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KIRAN\\source\\repos\\coresampleBookShefl\\coresampleBookShefl.csproj",
+      "projectUniqueName": "C:\\Users\\KIRAN\\Source\\Repos\\bookshelf.NetCore\\coresampleBookShefl.csproj",
       "projectName": "coresampleBookShefl",
-      "projectPath": "C:\\Users\\KIRAN\\source\\repos\\coresampleBookShefl\\coresampleBookShefl.csproj",
+      "projectPath": "C:\\Users\\KIRAN\\Source\\Repos\\bookshelf.NetCore\\coresampleBookShefl.csproj",
       "packagesPath": "C:\\Users\\KIRAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KIRAN\\source\\repos\\coresampleBookShefl\\obj\\",
+      "outputPath": "C:\\Users\\KIRAN\\Source\\Repos\\bookshelf.NetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KIRAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
