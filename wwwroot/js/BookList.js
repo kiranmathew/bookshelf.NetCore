@@ -1,0 +1,2 @@
+﻿var datatable;
+$(document).ready();
